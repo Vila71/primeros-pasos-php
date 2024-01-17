@@ -255,7 +255,7 @@ echo "Array resultante de la concatenación: ";
 print_r($arrayConcatenado);
 
 //Crear una función que imprima en consola y pantalla todos los números de un array en una lista
-/ Definir la función que imprime los números en consola y pantalla
+// Definir la función que imprime los números en consola y pantalla
 function imprimirNumeros($arrayNumeros) {
     echo "Números en pantalla:<br>";
     echo "<ul>";
